@@ -16,4 +16,4 @@ python real_time_object_detection.py \
 
 
 ### References
-[pyimagesearch](https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/)
+[Adrian Rosebrock- pyimagesearch](https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/)
